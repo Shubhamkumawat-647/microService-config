@@ -1,4 +1,6 @@
-spring.application.name=userService-prod
+spring:
+  application:
+    name : userService-Prod
 eureka:
   instance:
     prefer-ip-address: true
